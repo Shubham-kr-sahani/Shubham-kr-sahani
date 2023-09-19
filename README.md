@@ -2,7 +2,7 @@
 to work with a growth oriented organization on a real time software development project.
 
 - 👀 I’m interested in Java Programming and Html and Css
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ,
 
